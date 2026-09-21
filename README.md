@@ -1,134 +1,117 @@
-# 👋 Hi, I'm Olusanya Samuel
+<div align="center">
 
-📍 **Ibadan, Nigeria**  
-📞 **+234 (805)-967-4789**  
-📧 **[samuelolu407@gmail.com](mailto:samuelolu407@gmail.com)**  
-🔗 **[GitHub Profile](https://github.com/Jester8)**  
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=F5C518&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Olusanya+Samuel;Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native" alt="Typing intro" />
+
+**I build fast, responsive web and mobile products people actually enjoy using.**
+
+📍 Ibadan, Nigeria &nbsp;|&nbsp; 🌐 [olusam.dev](https://olusam.dev) &nbsp;|&nbsp; 📧 [samuelolu407@gmail.com](mailto:samuelolu407@gmail.com)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Creative and driven **Fullstack Developer** with over **5 years** of hands-on experience building responsive, scalable, and user-centric web applications.  
+Fullstack Developer with **5+ years** of experience building responsive, scalable web and mobile applications. I work mainly with **React**, **Next.js**, **Tailwind CSS**, and **Shadcn UI**, and ship mobile apps with **React Native**.
 
-I specialize in **React**, **Next.js**, **Tailwind CSS**, and **Shadcn UI**, with growing expertise in **React Native** for mobile apps.  
-I love turning ideas into beautiful, functional products that enhance user experience across platforms.  
+I care about clean, maintainable code, high-fidelity UI/UX, and performance. On past projects I cut page load times by **~20%** through code and UI optimization.
 
-My work emphasizes **clean code**, **UI/UX design**, and **excellent delivery**.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Languages & Tools
-- HTML5, CSS3, JavaScript, TypeScript  
-- Git & GitHub (version control & project collaboration)  
-- npm, Webpack, ESLint  
-
-### Frameworks & Libraries
-- React.js, Next.js, React Native, Vue.js, Angular, Node.js  
-- Tailwind CSS, Shadcn UI, Bootstrap  
-- REST APIs, AJAX  
-
-### Core Competencies
-- Responsive & Mobile-First Design  
-- UI/UX Implementation & Design Excellence  
-- Component Reusability  
-- Performance Optimization  
-- Accessibility & Cross-Browser Compatibility  
-- Agile Collaboration & Teamwork  
-- Git Workflow Mastery & Open Source Contribution  
+- 🚀 Currently shipping web platforms and mobile apps for startups and communities across Africa and the UK
+- 🎓 HND in Computer Engineering, Ibadan City Polytechnic
+- 🧑‍🏫 I mentor junior developers on clean code, UI standards, and Git workflows
+- 🔗 Also active in Web3 (content, community, design): [olusam.dev/blockchain-cv](https://olusam.dev/blockchain-cv)
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-**Ibadan City Polytechnic**, Ibadan, Nigeria  
-🎓 *HND in Computer Engineering* (September 2022 - March 2024)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,vue,angular,bootstrap&theme=dark" alt="Languages and frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,webpack,eslint&theme=dark" alt="Tools" />
+</p>
 
----
-
-## 💼 Work Experience
-
-**Key Highlights:**
-- Built scalable, reusable front-end systems using **Next.js**, **React.js**, **Tailwind CSS**, and **Shadcn UI**  
-- Led implementation of **mobile-first** and **responsive design** strategies  
-- Integrated **REST APIs**, authentication systems, and third-party services  
-- Improved performance and page load time by **20%** through optimization  
-- Conducted internal dev workshops on **UI/UX best practices**  
-- Managed GitHub-based collaboration with **code reviews** and **pull requests**  
-- Mentored junior developers on Git and modern workflows  
-- Championed **clean code** and **UI consistency**
+| Area | Skills |
+|---|---|
+| **Languages & Tools** | HTML5, CSS3, JavaScript, TypeScript, Git, GitHub, npm, Webpack, ESLint |
+| **Frameworks & Libraries** | React.js, Next.js, React Native, Node.js, Vue.js, Angular, Tailwind CSS, Shadcn UI, Bootstrap |
+| **Integration** | REST APIs, AJAX, authentication flows, third-party services |
+| **Core Strengths** | Responsive & mobile-first development, UI/UX implementation, reusable component architecture, performance optimization, cross-browser compatibility, Agile collaboration |
 
 ---
 
-## 📁 Highlighted Projects
+## 🚀 Featured Work
 
-### 🏠 [Emeranda Real Estate Platform](#)
-**Next.js | Tailwind CSS**  
-- Built a modern, elegant UI with advanced filtering and property listings  
-- Prioritized responsive layout, speed, and intuitive navigation  
-- *Figma Design:* [View Design](#)
+### 🌐 Websites & Web Apps
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [**KinoX Plus**](https://www.kinoxplus.com) | Social streaming platform with synced watch parties, live video chat, and reaction bubbles | Next.js, Tailwind CSS |
+| [**Solam Events Centre**](https://solameventscentre.com) | Premium venue site for a 5-hall Ibadan events center (weddings, conferences, 1,000+ guests) | Next.js, Tailwind CSS |
+| [**Emeranda Affiliates**](https://emerandaaffliates.com) | Real estate affiliate dashboard with real-time commission and deal tracking | Next.js, Tailwind CSS |
+| [**Emeranda Global**](https://www.emerandaglobal.com) | Verified land and property sales across Ibadan, Ilorin, and Abeokuta with search and viewing requests | Next.js, Tailwind CSS |
+| [**WasteFlow**](https://www.wasteflow.org) | UK construction skip management with live GPS tracking, dispatch approvals, and operator/contractor dashboards | Next.js, Tailwind CSS |
+| [**AgroChain**](https://www.agrochain.africa) | Digital trust system for African agriculture: verified farmer identities and blockchain-backed traceability | Next.js, Tailwind CSS |
+| [**GidyRide**](https://gidyride.com) | EV ride-hailing platform for Lagos and Abuja with AI ride matching and 5-language support | Next.js, Tailwind CSS |
+| [**Petrexclouds**](https://www.petrexclouds.io) | Digital product agency site showcasing 50+ shipped projects | Next.js, Tailwind CSS |
+| [**ATC Africa**](https://atcafrica.com) | Event hosting and tech community platform built from scratch | Next.js, Tailwind CSS |
 
-### 🎉 [Solam Event Center](#)
-**Next.js | Tailwind CSS**  
-- Developed an event booking and information platform  
-- Added smooth animations and transitions for an engaging experience  
+### 📱 Mobile Apps
 
----
+| App | What it does | Stack |
+|---|---|---|
+| [**DGC Global**](https://play.google.com/store/apps/details?id=com.dgc.app) | Community app with branch and cluster chats, live audio rooms, events, and announcements (5.0★ on Google Play) | React Native |
+| [**DGC Discipleship**](https://play.google.com/store/apps/details?id=com.kalex231.DGC) | Sunday School app with the full yearly lesson manual and Bible references (4.9★ on Google Play) | React Native |
 
-### 🎓 [NEXT – EdTech Platform](#)
-**Next.js | Tailwind CSS | Shadcn UI**  
-- Designed a sleek educational platform with dashboards and admin panels  
-- Integrated **Shadcn UI** for accessibility-focused components  
-
----
-
-### 🌍 [ATC Africa – Event Hosting Startup](#)
-**Next.js | Tailwind CSS**  
-- Developed a responsive tech platform for event listings and digital presence  
+➡️ See everything, with screenshots and details, at **[olusam.dev/projects](https://olusam.dev/projects)**
 
 ---
 
-### 🍔 [Krombs – Food Listing App](#)
-**Next.js | Tailwind CSS**  
-- Created a user-friendly, responsive landing page  
-- Collaborated closely with UI/UX designers to realize the brand vision  
+## 💼 Experience
 
----
+**Fullstack / Frontend Developer** | 2019 to Present
 
-### 🛍️ [ODARA – E-Commerce Website & App](#)
-**Next.js | Tailwind CSS**  
-- Built a clean, responsive, and intuitive shopping platform  
-- Focused on seamless UI/UX integration for better user experience  
-
----
-
-### ✝️ [Ctrl Shift – Gen Z Christian Conference](#)
-**Next.js | Tailwind CSS | Shadcn UI**  
-- Designed and developed the official conference platform  
-- Delivered an elegant, youthful UI with smooth navigation and animations  
-- Ensured pixel-perfect, on-brand design for maximum engagement  
+- Built scalable, reusable front-end architectures with Next.js, React, Tailwind CSS, Shadcn UI, and React Native
+- Developed React Native apps with smooth, high-performance user experiences
+- Implemented mobile-first design systems for consistent UX across devices
+- Integrated REST APIs, authentication, and third-party services into full-stack apps
+- Improved performance and page load speed by ~20%
+- Ran internal workshops on modern workflows, UI/UX best practices, and component-based architecture
+- Led GitHub collaboration with code reviews and pull requests
 
 ---
 
 ## 🏅 Certifications
-- **Adobe Certified Expert (ACE)**  
-- **Canva for Beginners**  
-- **W3Schools Certified Front-End Developer**
+
+- Adobe Certified Expert (ACE)
+- Canva for Beginners
+- W3Schools Certified Front-End Developer
 
 ---
 
-## ✨ What Sets Me Apart
-- Passion for **clean, human-centered UI/UX design**  
-- **Strategic thinker** who thrives in collaborative environments  
-- Strong **communication and mentoring** abilities  
-- Consistently delivers **professional, elegant, and highly functional** projects  
-- Always **learning and experimenting** with new tools & trends  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jester8&show_icons=true&hide_border=true&bg_color=080808&title_color=F5C518&icon_color=F5C518&text_color=E5E5E5" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jester8&layout=compact&hide_border=true&bg_color=080808&title_color=F5C518&text_color=E5E5E5" alt="Top languages" />
+</p>
 
 ---
 
-> *“Building with purpose, designing with empathy, and coding with clarity.”*  
-— **Olusanya Samuel**
+## 🤝 Let's Work Together
+
+Open to freelance projects, collaborations, and full-time roles.
+
+<p>
+  <a href="https://olusam.dev"><img src="https://img.shields.io/badge/Portfolio-olusam.dev-F5C518?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="mailto:samuelolu407@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-080808?style=for-the-badge&logo=gmail&logoColor=F5C518" alt="Email" /></a>
+  <a href="https://github.com/Jester8"><img src="https://img.shields.io/badge/GitHub-Jester8-080808?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub" /></a>
+</p>
+
+<div align="center">
+
+> *"Building with purpose, designing with empathy, and coding with clarity."*
+> **Olusanya Samuel**
+
+</div>
