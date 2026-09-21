@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Olusanya+Samuel;Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Flutter" alt="Typing intro" />
 
-**I build fast, responsive web and mobile products people actually enjoy using.**
+**I build fast, responsive web and mobile applications.**
 
 📍 Ibadan, Nigeria &nbsp;|&nbsp; 🌐 [olusam.dev](https://olusam.dev) &nbsp;|&nbsp; 📧 [samuelolu407@gmail.com](mailto:samuelolu407@gmail.com)
 
@@ -111,7 +111,6 @@ Open to freelance projects, collaborations, and full-time roles.
 
 <div align="center">
 
-> *"Building with purpose, designing with empathy, and coding with clarity."*
-> **Olusanya Samuel**
+
 
 </div>
