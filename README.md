@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=F5C518&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Olusanya+Samuel;Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Olusanya+Samuel;Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Flutter" alt="Typing intro" />
 
 **I build fast, responsive web and mobile products people actually enjoy using.**
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Fullstack Developer with **5+ years** of experience building responsive, scalable web and mobile applications. I work mainly with **React**, **Next.js**, **Tailwind CSS**, and **Shadcn UI**, and ship mobile apps with **React Native**.
+Fullstack Developer with **5+ years** of experience building responsive, scalable web and mobile applications. I work mainly with **React**, **Next.js**, **Tailwind CSS**, and **Shadcn UI**, and build mobile apps with **React Native** and **Flutter**.
 
 I care about clean, maintainable code, high-fidelity UI/UX, and performance. On past projects I cut page load times by **~20%** through code and UI optimization.
 
@@ -26,7 +26,7 @@ I care about clean, maintainable code, high-fidelity UI/UX, and performance. On 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,vue,angular,bootstrap&theme=dark" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,vue,angular,bootstrap,flutter,dart&theme=dark" alt="Languages and frameworks" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,npm,webpack,eslint&theme=dark" alt="Tools" />
@@ -34,8 +34,8 @@ I care about clean, maintainable code, high-fidelity UI/UX, and performance. On 
 
 | Area | Skills |
 |---|---|
-| **Languages & Tools** | HTML5, CSS3, JavaScript, TypeScript, Git, GitHub, npm, Webpack, ESLint |
-| **Frameworks & Libraries** | React.js, Next.js, React Native, Node.js, Vue.js, Angular, Tailwind CSS, Shadcn UI, Bootstrap |
+| **Languages & Tools** | HTML5, CSS3, JavaScript, TypeScript, Dart, Git, GitHub, npm, Webpack, ESLint |
+| **Frameworks & Libraries** | React.js, Next.js, React Native, Flutter, Node.js, Vue.js, Angular, Tailwind CSS, Shadcn UI, Bootstrap |
 | **Integration** | REST APIs, AJAX, authentication flows, third-party services |
 | **Core Strengths** | Responsive & mobile-first development, UI/UX implementation, reusable component architecture, performance optimization, cross-browser compatibility, Agile collaboration |
 
@@ -93,8 +93,8 @@ I care about clean, maintainable code, high-fidelity UI/UX, and performance. On 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jester8&show_icons=true&hide_border=true&bg_color=080808&title_color=F5C518&icon_color=F5C518&text_color=E5E5E5" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jester8&layout=compact&hide_border=true&bg_color=080808&title_color=F5C518&text_color=E5E5E5" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jester8&show_icons=true&hide_border=true&bg_color=080808&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jester8&layout=compact&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=FFFFFF" alt="Top languages" />
 </p>
 
 ---
@@ -104,9 +104,9 @@ I care about clean, maintainable code, high-fidelity UI/UX, and performance. On 
 Open to freelance projects, collaborations, and full-time roles.
 
 <p>
-  <a href="https://olusam.dev"><img src="https://img.shields.io/badge/Portfolio-olusam.dev-F5C518?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-  <a href="mailto:samuelolu407@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-080808?style=for-the-badge&logo=gmail&logoColor=F5C518" alt="Email" /></a>
-  <a href="https://github.com/Jester8"><img src="https://img.shields.io/badge/GitHub-Jester8-080808?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub" /></a>
+  <a href="https://olusam.dev"><img src="https://img.shields.io/badge/Portfolio-olusam.dev-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="mailto:samuelolu407@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-080808?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Jester8"><img src="https://img.shields.io/badge/GitHub-Jester8-080808?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <div align="center">
