@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olusanya Samuel
 
-📍 **Lagos, Nigeria**  
+📍 **Ibadan, Nigeria**  
 📞 **+234 (805)-967-4789**  
 📧 **[samuelolu407@gmail.com](mailto:samuelolu407@gmail.com)**  
 🔗 **[GitHub Profile](https://github.com/Jester8)**  
